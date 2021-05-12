@@ -88,7 +88,7 @@ for (let i = 0; i < 100; i++) {
  * Base
  */
 // Debug
-const gui = new dat.GUI()
+//const gui = new dat.GUI()
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
